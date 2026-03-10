@@ -3,3 +3,4 @@ __pycache__/
 *.pyo
 .directory
 .DS_Store
+.directory
